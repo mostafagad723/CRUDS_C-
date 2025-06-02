@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mostafa Ismaiel Gad\\Desktop\\APP\\Console Application _Bank system_CRUDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1665B-A3EB-4322-A763-F9FF04C11AFA}|Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS.vcxproj|C:\\Users\\Mostafa Ismaiel Gad\\Desktop\\APP\\Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F1665B-A3EB-4322-A763-F9FF04C11AFA}|Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS.vcxproj|solutionrelative:Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Console Application _Bank system_CRUDS.cpp",
+              "DocumentMoniker": "C:\\Users\\Mostafa Ismaiel Gad\\Desktop\\APP\\Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS.cpp",
+              "RelativeDocumentMoniker": "Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS.cpp",
+              "ToolTip": "C:\\Users\\Mostafa Ismaiel Gad\\Desktop\\APP\\Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS.cpp",
+              "RelativeToolTip": "Console Application _Bank system_CRUDS\\Console Application _Bank system_CRUDS.cpp",
+              "ViewState": "AgIAAJgCAAAAAAAAAAAAAKsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T01:49:04.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

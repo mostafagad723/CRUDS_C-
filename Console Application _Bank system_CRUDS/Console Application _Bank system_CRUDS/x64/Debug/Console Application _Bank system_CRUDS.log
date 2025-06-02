@@ -1,0 +1,5 @@
+﻿  Console Application _Bank system_CRUDS.cpp
+C:\Users\Mostafa Ismaiel Gad\Desktop\APP\Console Application _Bank system_CRUDS\Console Application _Bank system_CRUDS\Console Application _Bank system_CRUDS.cpp(179,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Mostafa Ismaiel Gad\Desktop\APP\Console Application _Bank system_CRUDS\Console Application _Bank system_CRUDS\Console Application _Bank system_CRUDS.cpp(296,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mostafa Ismaiel Gad\Desktop\APP\Console Application _Bank system_CRUDS\Console Application _Bank system_CRUDS\Console Application _Bank system_CRUDS.cpp(101,1): warning C4715: 'ReadGender': not all control paths return a value
+  Console Application _Bank system_CRUDS.vcxproj -> C:\Users\Mostafa Ismaiel Gad\Desktop\APP\Console Application _Bank system_CRUDS\x64\Debug\Console Application _Bank system_CRUDS.exe
